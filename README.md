@@ -1,0 +1,1 @@
+This project delves into trend-following strategies employing Simple Moving Average, RSI, and MACD indicators across four distinct asset classes: Equities, Commodities, Fixed Income, and FX. The optimization of all positions is conducted utilizing the Kelly Criterion. For detailed insights into the outcomes, kindly consult the accompanying PowerPoint presentation.
